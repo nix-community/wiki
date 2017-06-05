@@ -1,4 +1,4 @@
-# Inofficial Nixos wiki
+# Unofficial Nixos wiki
 
 [Click here to get to the wiki](https://github.com/nixos-users/nixos-wiki/wiki)
 
