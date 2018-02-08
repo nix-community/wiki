@@ -1,9 +1,13 @@
-# Unofficial Nixos wiki
+# Unofficial NixOS wiki
 
-[http://nixos.wiki/](http://nixos.wiki/)
+ * [http://nixos.wiki/](http://nixos.wiki/)
 
-This is an attempt to revive the lockdown [old wiki](https://nixos.org/wiki).
+* * *
 
-Everybody with an github account can edit, to request git access, open a new issue.
+This is the github project page for the wiki. This is where projects and issues are maintained.
 
-Contact: we are currently a small group of volunteers idleing at #krebs on [freenode](https://webchat.freenode.net)
+The [NixOS Wiki:About](https://nixos.wiki/wiki/NixOS_Wiki:About) page describes the new wiki goals.
+
+## Contact
+
+We are a group of volunteers idling at #nixos-wiki on [freenode](https://webchat.freenode.net)
